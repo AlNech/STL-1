@@ -1,0 +1,4 @@
+﻿  STL-Nechunaeva.cpp
+C:\Users\User\Desktop\ВУЗик\2 курс 1 семестр\ПпП\STL-Nechunaeva\STL-Nechunaeva\STL-Nechunaeva.cpp(35,16): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\ВУЗик\2 курс 1 семестр\ПпП\STL-Nechunaeva\STL-Nechunaeva\STL-Nechunaeva.cpp(50,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  STL-Nechunaeva.vcxproj -> C:\Users\User\Desktop\ВУЗик\2 курс 1 семестр\ПпП\STL-Nechunaeva\Debug\STL-Nechunaeva.exe
